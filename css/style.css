@@ -116,7 +116,7 @@ iframe {
 }
 .sidebar img {
     display: block;
-    text-align: center;
+    margin: 0 auto;
 }
 .sidebar ul {
     line-height: 1.25rem;
