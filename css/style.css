@@ -74,10 +74,6 @@ iframe {
     border-radius: .3rem;
 }
 
-
-#fixfontsize {
-    font-size: .9rem;
-}
 .source {
     margin: 0 auto;
     text-align: center;
@@ -92,9 +88,6 @@ iframe {
 .floatleft {
     float: left;
     margin-right: 1rem;
-}
-.center {
-    text-align: center;
 }
 .wrapper {
     width: 95%;
